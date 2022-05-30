@@ -1,0 +1,6 @@
+pyproject.toml
+src/Trigo/trigolib.py
+src/Trigo.egg-info/PKG-INFO
+src/Trigo.egg-info/SOURCES.txt
+src/Trigo.egg-info/dependency_links.txt
+src/Trigo.egg-info/top_level.txt
